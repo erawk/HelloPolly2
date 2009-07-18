@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'HelloPoly2' target in the 'HelloPoly1' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
